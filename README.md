@@ -23,4 +23,4 @@ project
 
 # 模版项目微信交流群
 
-![](./static/img.jpg)
+![](./static/img.jpeg)
